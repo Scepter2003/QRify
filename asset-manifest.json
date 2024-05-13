@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QRify/static/css/main.f855e6bc.css",
+    "main.js": "/QRify/static/js/main.ba14c223.js",
+    "static/js/453.dd285455.chunk.js": "/QRify/static/js/453.dd285455.chunk.js",
+    "index.html": "/QRify/index.html",
+    "main.f855e6bc.css.map": "/QRify/static/css/main.f855e6bc.css.map",
+    "main.ba14c223.js.map": "/QRify/static/js/main.ba14c223.js.map",
+    "453.dd285455.chunk.js.map": "/QRify/static/js/453.dd285455.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ba14c223.js"
+  ]
+}
