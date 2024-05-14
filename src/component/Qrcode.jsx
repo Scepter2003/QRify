@@ -125,7 +125,7 @@ function Qrcode() {
           </li>
           <li
             style={{
-              padding: "3%",
+              padding: "6%",
               cursor: "pointer",
               textAlign: "center",
               backgroundColor: option === "link" ? "#94ccc6" : "transparent",
